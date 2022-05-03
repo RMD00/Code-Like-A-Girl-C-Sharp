@@ -17,9 +17,3 @@ animal = animal.Trim().ToLower();
 Console.WriteLine("Here is your madlib:"); 
 string madlib = $"One day, {name} was {adverb} walking along the road, and the neighbour's {animal} came out to say hello!";
 Console.WriteLine(madlib);
-
-
-
-
-
-
