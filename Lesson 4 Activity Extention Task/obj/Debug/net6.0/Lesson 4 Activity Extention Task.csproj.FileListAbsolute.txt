@@ -1,0 +1,15 @@
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\bin\Debug\net6.0\Lesson 4 Activity Extention Task.exe
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\bin\Debug\net6.0\Lesson 4 Activity Extention Task.deps.json
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\bin\Debug\net6.0\Lesson 4 Activity Extention Task.runtimeconfig.json
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\bin\Debug\net6.0\Lesson 4 Activity Extention Task.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\bin\Debug\net6.0\Lesson 4 Activity Extention Task.pdb
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\Lesson 4 Activity Extention Task.csproj.AssemblyReference.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\Lesson 4 Activity Extention Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\Lesson 4 Activity Extention Task.AssemblyInfoInputs.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\Lesson 4 Activity Extention Task.AssemblyInfo.cs
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\Lesson 4 Activity Extention Task.csproj.CoreCompileInputs.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\Lesson 4 Activity Extention Task.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\refint\Lesson 4 Activity Extention Task.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\Lesson 4 Activity Extention Task.pdb
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\Lesson 4 Activity Extention Task.genruntimeconfig.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 4 Activity Extention Task\obj\Debug\net6.0\ref\Lesson 4 Activity Extention Task.dll
