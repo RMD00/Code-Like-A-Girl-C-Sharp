@@ -1,0 +1,15 @@
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\bin\Debug\net6.0\Lesson 5 Activity.exe
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\bin\Debug\net6.0\Lesson 5 Activity.deps.json
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\bin\Debug\net6.0\Lesson 5 Activity.runtimeconfig.json
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\bin\Debug\net6.0\Lesson 5 Activity.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\bin\Debug\net6.0\Lesson 5 Activity.pdb
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\Lesson 5 Activity.csproj.AssemblyReference.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\Lesson 5 Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\Lesson 5 Activity.AssemblyInfoInputs.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\Lesson 5 Activity.AssemblyInfo.cs
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\Lesson 5 Activity.csproj.CoreCompileInputs.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\Lesson 5 Activity.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\refint\Lesson 5 Activity.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\Lesson 5 Activity.pdb
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\Lesson 5 Activity.genruntimeconfig.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 5 Activity\obj\Debug\net6.0\ref\Lesson 5 Activity.dll
