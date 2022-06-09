@@ -3,49 +3,47 @@
 while (true)
     {
         Console.WriteLine("Please enter your first number");
-        var firstNumber = Console.ReadLine();
-        var firstDouble = double.Parse(firstNumber); // how do I do the .IsNullOrEmpty?
-
+        var firstNo = double.Parse(Console.ReadLine());
+                            
         Console.WriteLine("Please enter an operation (+, /, raise to the power)");
         var chosenOperator = Console.ReadLine();
 
         Console.WriteLine("Please enter your second number");
-        var secondNumber = Console.ReadLine();
-        var secondDouble = double.Parse(secondNumber); // how do I do the .IsNullOrEmpty?
-
+        var secondNo = double.Parse(Console.ReadLine());
+        
         switch (chosenOperator)
         {
             case "+":
-                var resultAdd = Add(firstDouble, secondDouble);
+                var resultAdd = Add(firstNo, secondNo);
                 break;
 
             case "/":
-                var resultDiv = Div(firstDouble, secondDouble);
+                var resultDiv = Div(firstNo, secondNo);
                 break;
 
             case "raise to the power":
-                var resultPow = Pow(firstDouble, secondDouble);
+                var resultPow = Pow(firstNo, secondNo);
                 break;
         }
-
-        static extern double Add(double firstDouble, double secondDouble);
-        {
-            var add = firstDouble + secondDouble;
-            Console.WriteLine($"{firstDouble} + {secondDouble} = {add}");
-            return add;
-        }
-
-        static extern double Div(double firstDouble, double secondDouble);
-        {
-            var div = firstDouble / secondDouble;
-            Console.WriteLine($"{firstDouble} / {secondDouble} = {div}");
-            return div;
-        }
-
-        static extern double Pow(double firstDouble, double secondDouble);
-        {
-            var pow = Math.Pow(firstDouble, secondDouble);
-            Console.WriteLine($"{firstDouble} to the power of {secondDouble} = {pow}");
-            return pow;
-        }
     }
+
+        double Add(double firstNo, double secondNo)
+        {
+            var add = firstNo + secondNo;
+            Console.WriteLine($"{firstNo} + {secondNo} = {add}");
+            return add; 
+        }
+
+        double Div(double firstNo, double secondNo)
+        {
+            var div = firstNo / secondNo;
+            Console.WriteLine($"{firstNo} / {secondNo} = {div}");
+            return div; 
+        }
+
+        double Pow(double firstNo, double secondNo)
+        {
+            var pow = Math.Pow(firstNo, secondNo);
+            Console.WriteLine($"{firstNo} to the power of {secondNo} = {pow}");
+            return pow; 
+        }
