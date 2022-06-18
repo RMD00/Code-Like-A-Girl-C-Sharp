@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// This is my madlib exercise
-
-Console.WriteLine("What is your name?");
+﻿Console.WriteLine("What is your name?");
 var name = Console.ReadLine();
 name = name.Trim();
 var welcomeMessage = $"Hello {name}";
@@ -15,5 +12,5 @@ var animal = Console.ReadLine();
 animal = animal.Trim().ToLower();
 
 Console.WriteLine("Here is your madlib:"); 
-string madlib = $"One day, {name} was {adverb} walking along the road, and the neighbour's {animal} came out to say hello!";
+var madlib = $"One day, {name} was {adverb} walking along the road, and the neighbour's {animal} came out to say hello!";
 Console.WriteLine(madlib);

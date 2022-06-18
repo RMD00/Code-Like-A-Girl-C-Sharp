@@ -13,3 +13,18 @@ C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2\obj\Debug\net6.0\
 C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2\obj\Debug\net6.0\Lesson 2.pdb
 C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2\obj\Debug\net6.0\Lesson 2.genruntimeconfig.cache
 C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2\obj\Debug\net6.0\ref\Lesson 2.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\bin\Debug\net6.0\Lesson 2.exe
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\bin\Debug\net6.0\Lesson 2.deps.json
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\bin\Debug\net6.0\Lesson 2.runtimeconfig.json
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\bin\Debug\net6.0\Lesson 2.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\bin\Debug\net6.0\Lesson 2.pdb
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\Lesson 2.csproj.AssemblyReference.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\Lesson 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\Lesson 2.AssemblyInfoInputs.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\Lesson 2.AssemblyInfo.cs
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\Lesson 2.csproj.CoreCompileInputs.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\Lesson 2.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\refint\Lesson 2.dll
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\Lesson 2.pdb
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\Lesson 2.genruntimeconfig.cache
+C:\Users\rebec\OneDrive\Documents\Code Like A Girl\C#\Lesson 2 Activity\obj\Debug\net6.0\ref\Lesson 2.dll
