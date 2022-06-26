@@ -1,10 +1,16 @@
 namespace ExamCentre.Models 
 {
-public class Student
-{
-    public string name { get; set; }
-    public int studentNumber { get; set; }
-    public int score { get; set; }
-    public string subject { get; set; } 
-}
+    public class Student
+    {
+        public int StudentNumber { get; set; }
+        public string Name { get; set; }
+        public int Score { get; set; }
+
+        public Student (string name, int studentNumber, int score)
+        {   
+            StudentNumber = studentNumber;
+            Name = name; 
+            Score = score;
+        }
+    }
 }
