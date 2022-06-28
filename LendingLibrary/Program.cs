@@ -6,29 +6,35 @@ namespace LendingLibrary
     {
         static void Main()
         {
+            var library = new Library();
+            
             var novel1 = new Novel();
             novel1.Title = "Game of Thrones";
             novel1.Author = "George RR Martin";
             novel1.PublicationYear = 1996;
             novel1.Genre = "Fantasy";
+            library.AddNovel(novel1);
 
             var novel2 = new Novel();
             novel2.Title = "Harry Potter";
             novel2.Author = "JK Rowling";
             novel2.PublicationYear = 2003;
             novel2.Genre = "Fantasy";
+            library.AddNovel(novel2);
 
             var textbook1  = new Textbook();
             textbook1.Title = "Biology for VCE";
             textbook1.Author = "Tommins et. al.";
             textbook1.PublicationYear = 2021;
             textbook1.Subject = "Biology";
+            //library.Addtextbookl(textbook1);
 
             var textbook2  = new Textbook();
             textbook2.Title = "Numbers and Operators";
             textbook2.Author = "Smith Jennings";
             textbook2.PublicationYear = 2019;
             textbook2.Subject = "Maths";
+
 
             var album1  = new Album();
             album1.Title = "Diva";
@@ -54,7 +60,8 @@ namespace LendingLibrary
             audioBook2.NumberOfTracks = 6;
             audioBook2.PublicationYear = 2011;
 
-            
+            library.ListOfNovels();
+
 
         }
     }

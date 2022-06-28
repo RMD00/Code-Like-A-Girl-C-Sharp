@@ -1,9 +1,25 @@
 namespace LendingLibrary.Models;
-
 public class Library : Media
 {
-    public void ListOfNovels();
+    public List<Novel> novels = new List<Novel>{};
+    
+    public void ListOfNovels()
     {
-        var novels = new List<string> {novel1.Title, novel2.Title,};
+        foreach (var Novel in novels)
+            {
+               Novel.PrintNovel();
+            }
+    }
+
+
+
+    public void AddNovel(Novel novel)
+    {
+        novels.Add(novel);    
+    }
+
+     public void AddTextbook(Textbook textbook)
+    {
+       // textbooks.Add();    
     }
 }
