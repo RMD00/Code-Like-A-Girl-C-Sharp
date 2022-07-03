@@ -1,22 +1,23 @@
+using System;
 namespace ExamCentre.Models 
 {
     public class Exam
     {
         public string Subject { get; set; }
-        public List<Student> Students;
         public Exam(string subject)
         {
             Subject = subject;
         }
 
-        AddStudent()
-        {
+        public Exam(){} // empty contructor
 
-        }
-        public void MarkPaper(string newName, int newStudentNumber, int newScore)
+        public void ListOfStudents()
         {
-            
-        }        
-       
+            foreach (var Student in students)
+            {
+                Student.PrintStudentList();
+            }
+        }     
+
     }
 }
