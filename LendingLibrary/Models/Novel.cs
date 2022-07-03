@@ -15,6 +15,6 @@ public class Novel : Book
     public Novel(){} // Empty constructor
     public void PrintNovel()
     {
-        Console.WriteLine($"Title: {Title}, Author: {Author}");
+        Console.WriteLine($"Novel: {Title} ({Genre}, {PublicationYear}) by {Author}.");
     }
 }
