@@ -30,13 +30,7 @@ namespace RideShare
 			// Create a list that can hold the above cars, extra large cars and luxury cars
 			// Check for nearby cars, extra large cars and luxury cars by creating a foreach loop that 
 			// goes through each of the cars, motorbikes and luxury cars created and calls their ReportDistance method
-			var availableVehicles = new List<availableVehicle> 
-			{
-				foreach (vehicle in Vehicle)
-				{
-					vehicle.ReportDistance();
-				}
-			};
+			vehicle.ListOfVehicles();
 
         }
 
