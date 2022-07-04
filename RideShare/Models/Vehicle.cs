@@ -2,6 +2,7 @@ namespace RideShare.Models
 {
 	public abstract class Vehicle
 	{
+		public Vehicle(){} // Empty constructor
 		public double DistanceAwayInKm { get; set; }
 		public virtual void ReportDistance()
 		{
