@@ -18,9 +18,9 @@ namespace RideShare.Models
             Vehicle.ReportDistance();
             }
         }
-        public void AddVehicle(Vehicle vehciel)
+        public void AddVehicle(Vehicle vehicle)
         {
-            vehicles.Add(vehicle);    
+            vehicles.Add(vehicle);    	
         }
 	}
 }
