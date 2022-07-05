@@ -11,13 +11,18 @@ namespace ExamCentre.Models
 
         public Exam(){} // empty contructor
 
-        public void ListOfStudents()
-        {
-            foreach (var Student in students)
-            {
-                Student.PrintStudentList();
-            }
-        }     
+        public List<Student> students = new List<Student>();
 
+        public void AddStudent(Student student)
+        {
+            students.Add(student);    
+        }
+
+        public void MarkPaper(int studentNumber, int score)
+        {
+            var student = students.Find(x => x.StudentNumber == studentNumber);
+            student.AddScore(score);
+            
+        }
     }
 }

@@ -16,15 +16,14 @@ namespace ExamCentre.Models
 
         public Student(){} // Empty constructor
 
-        public void AddStudent(Student student)
-        {
-            students.Add(student);    
-        }
-
-        public void PrintStudentList()
+        public void PrintStudent()
         {
             Console.WriteLine($"Student number: {StudentNumber} scored {Score}.");
         }
 
+        public void AddScore(int score)
+        {
+            Score = score;
+        }
     }
 }

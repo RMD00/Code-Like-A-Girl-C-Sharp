@@ -6,24 +6,25 @@ namespace ExamCentre
     { 
         static void Main()
         {   
+          
             var subject = new Exam("Bioinformatics");
             
             var student1 = new Student();
             student1.Name = "Ama";
             student1.StudentNumber = 3314;
-            student1.Score = 70;
-            Student.AddStudent(student1);
+            subject.AddStudent(student1);
             
             var student2 = new Student();
             student2.Name = "Ama";
             student2.StudentNumber = 3315;
-            student2.Score = 40;
-            Student.AddStudent(student2);
+            subject.AddStudent(student2);
+
+            subject.MarkPaper(3314, 80);
+            subject.MarkPaper(3315, 85);
+            student1.PrintStudent();
+            student2.PrintStudent();
+
           
-            Student.PrintStudentList;
-          
-       
-            
             // Console.WriteLine("Welcome to the Exam Centre. What would you like to do:");
             // Console.WriteLine("1 - List students in the exam (by student number)");
             // Console.WriteLine("2 - Add student score");
@@ -50,6 +51,9 @@ namespace ExamCentre
  
             //     Exam.MarkPaper(); 
             //     break;
+       
+            
+
         }
     }
 }
